@@ -1,4 +1,4 @@
-#JUEGO MEMORY
+# JUEGO MEMORY
 El desarrollo de este juego se ha realizado exclusivamente con fines académicos, este juego se ha realizado exclusivamente en php.
 
 El objetivo es lograr memorizar la ubicación de las diferentes cartas con el fin de voltear sucesivamente las 2 cartas idénticas que formen pareja, para llevárselas.
